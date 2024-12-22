@@ -6,6 +6,10 @@
 
 - В директории `.git/hooks` создаем хук `pre-commit` который срабатывает перед коммитом
 
+Он проверяет файлы формата .txt на то, что они не пустые, неподходящие файлы удаляются из "staging area"
+
+Код:
+
 ```bash
 #!/bin/bash
  
@@ -29,5 +33,16 @@ done
  
 exit 0
 ```
-Он проверяет файлы формата .txt на то, что они не пустые, неподходящие файлы удаляются из "staging area"
+- Создаем для проверки два файла: пустой и не пустой                                                         
+![image](https://github.com/user-attachments/assets/c66a413d-ffcf-4b58-88a3-dca77de0b368)
+
+- Командой git add добавляем файлы в "staging area"                                                                      
+![image](https://github.com/user-attachments/assets/e669fb89-687e-4d46-a10c-7096fa5f620a)
+
+- Выполняем коммит                                                                                       
+![image](https://github.com/user-attachments/assets/56307961-ed65-46e9-8cba-ff5ea42eb597)
+
+- Результат: пустой файл вернулся в "changes", а непустой закомитился                                                    
+![image](https://github.com/user-attachments/assets/19faaeed-dea6-446b-92e7-fd5938e6abd3)
+
 
