@@ -52,3 +52,20 @@ exit 0
 ---
 
 ### Задание 2
+
+- Инициализируем Git Flow
+![image](https://github.com/user-attachments/assets/f504cbb0-bf6e-4df0-bd1f-00e8bce06ffe)
+
+- Создаем новую ветку
+![image](https://github.com/user-attachments/assets/8588b4bc-3b35-4c0e-b630-35cdb4d12265)
+
+- Добавляем python file и коммитим его
+![image](https://github.com/user-attachments/assets/a09a2039-e298-40dd-bdc4-920e8336888a)
+![image](https://github.com/user-attachments/assets/b5c1fac0-ab4a-45ce-ab27-cc848604ffb9)
+
+- Завершаем фичу и объединяем
+![image](https://github.com/user-attachments/assets/c1b743b5-22e2-4879-b515-74984a508bef)
+
+- Начинаем создание релиза
+![image](https://github.com/user-attachments/assets/64e12fe0-d5e0-48fa-9032-a7f47dfdba30)
+
