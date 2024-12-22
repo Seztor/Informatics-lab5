@@ -47,6 +47,7 @@ exit 0
 
 - Результат: пустой файл вернулся в "changes", а непустой закомитился                                                    
 ![image](https://github.com/user-attachments/assets/19faaeed-dea6-446b-92e7-fd5938e6abd3)
+![image](https://github.com/user-attachments/assets/34d5d765-44f2-43aa-b41d-55487bd71b47)
 
 ---
 
