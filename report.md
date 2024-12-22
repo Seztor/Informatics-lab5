@@ -68,7 +68,12 @@ exit 0
 
 - Начинаем создание релиза
 ![image](https://github.com/user-attachments/assets/64e12fe0-d5e0-48fa-9032-a7f47dfdba30)
-
+- Добавляем version.txt
+```bash
+echo "v1.0.0" > version.txt
+git add version.txt
+git commit -m "Обновлена версия для релиза v1.0.0"
+```
 - Создаем hotfix и создаем файл python
 ![image](https://github.com/user-attachments/assets/cb9f4b49-992b-4a2a-918e-284c2545b432)
 ![image](https://github.com/user-attachments/assets/86fe1103-07b3-476a-88ee-d46827f53d46)
