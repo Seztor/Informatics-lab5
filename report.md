@@ -1,5 +1,8 @@
 ## Отчет по лабораторной работе №5 по курсу «Информатика»
 ---
+
+### Задание 1
+
 ##### Ход работы
 
 - Комадной  `git clone https://github.com/Seztor/Informatics-lab5.git`  клонируем себе репозиторий
@@ -45,4 +48,6 @@ exit 0
 - Результат: пустой файл вернулся в "changes", а непустой закомитился                                                    
 ![image](https://github.com/user-attachments/assets/19faaeed-dea6-446b-92e7-fd5938e6abd3)
 
+---
 
+### Задание 2
