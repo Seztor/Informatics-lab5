@@ -75,3 +75,5 @@ exit 0
 
 - Коммитим изменения и завершаем hotfix
 ![image](https://github.com/user-attachments/assets/cd99182c-80e1-4aac-a3ba-606d332e2863)
+
+- Отправляем изменения на удаленный репозиторий
